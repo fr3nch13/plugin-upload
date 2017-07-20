@@ -1,0 +1,20 @@
+{
+	"name" : "nih-fo/plugin-upload",
+	"description" : "CakePHP Plugin: Mainly manages the avatar stuff.",
+	"type" : "cakephp-plugin",
+	"keywords" : ["cakephp", "plugin", "upload"],
+	"license": "proprietary",
+	"authors": [
+		{
+			"name": "Brian French",
+			"role": "Developer"
+		},
+		{
+			"name": "Joshua Knust",
+			"role": "Manager"
+		} 
+	],
+	"require": {
+		"nih-fo/plugin-utilities": "1.*"
+	}
+}

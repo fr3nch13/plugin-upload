@@ -1,0 +1,55 @@
+/* Main menu avatar */
+
+
+#menu_user #avatar {
+	position: absolute;
+	top: 18px;
+	right: 0px;
+	padding: 2px;
+	background-color: #81BAE7;
+	box-shadow: 0 2px 3px #DDD;
+	border: 1px solid #FFF;
+}
+
+#menu_user #avatar img {
+	width: 60px;
+	height: 60px;
+}
+
+#avatar_big {
+	width: 200px;
+	padding: 4px;
+	background-color: #81BAE7;
+	box-shadow: 0 2px 3px #DDD;
+	border: 1px solid #FFF;
+}
+#avatar_big img {
+	width: 200px;
+	height: 200px;
+}
+
+/* the icon next to the users' names */
+a.avatar_tiny {
+	vertical-align: top;
+}
+
+img.avatarhelper_tiny {
+	padding-right: 4px;
+	padding-top: 4px;
+	float: left;
+}
+/* adjust the image when it shows up in the listing tables */
+table.listings img.avatarhelper_tiny {
+	padding-top:0;
+}
+
+
+#avatarpreview{
+	position:absolute;
+	border:1px solid #FFF;
+	background:#81BAE7;
+	padding:5px;
+	display:none;
+	color:#fff;
+	box-shadow: 0 2px 3px #DDD;
+}
