@@ -3,7 +3,7 @@
 	"description" : "CakePHP Plugin: Mainly manages the avatar stuff.",
 	"type" : "cakephp-plugin",
 	"keywords" : ["cakephp", "plugin", "upload"],
-	"license": "proprietary",
+	"license": "mit",
 	"authors": [
 		{
 			"name": "Brian French",
