@@ -1,5 +1,5 @@
 {
-	"name" : "nih-fo/plugin-upload",
+	"name" : "fr3nch13/plugin-upload",
 	"description" : "CakePHP Plugin: Mainly manages the avatar stuff.",
 	"type" : "cakephp-plugin",
 	"keywords" : ["cakephp", "plugin", "upload"],
@@ -15,6 +15,6 @@
 		} 
 	],
 	"require": {
-		"nih-fo/plugin-utilities": "1.*"
+		"fr3nch13/plugin-utilities": "1.*"
 	}
 }
